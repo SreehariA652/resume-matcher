@@ -32,16 +32,6 @@ This is a simple **Resume Matcher** web application built using **Python + Flask
 
 ---
 
-## 📦 How to Run Locally
-
-```bash
-git clone git clone https://github.com/SreehariA652/resume-matcher.git
-cd resume_matcher
-pip install -r requirements.txt
-python app.py
-
----
-
 ## 🙋‍♂️ About This Project
 
 This app was built as a **personal side project** to:
@@ -50,3 +40,13 @@ This app was built as a **personal side project** to:
 - Explore resume parsing and keyword matching
 
 Feel free to try it and share your feedback!
+
+---
+
+## 📦 How to Run Locally
+
+```bash
+git clone git clone https://github.com/SreehariA652/resume-matcher.git
+cd resume_matcher
+pip install -r requirements.txt
+python app.py
