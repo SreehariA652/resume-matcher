@@ -1,0 +1,69 @@
+Meticulous Data scientist with a passion for helping clients
+with any kind of problem they might have. Proficient in data
+wrangling, statistical analysis, and machine learning
+techniques to uncover insights and create impactful
+solutions. Ability to properly communicate with clients to
+find what they actually want and to give useful outcomes.
+C O U R S E
+S R E E H A R I A
+E D U C A T I O N
+SNGSC Pattambi
+2021-2024
+S O F T S K I L L S
+Collabaration
+Problem-solving skills
+Attention to details
+Critical thinking
+Adaptability
+Decision-making
+Coffee Quality Analysis
+Performed data cleaning using Python libraries (e.g.,
+Pandas) to address missing values and inconsistencies.
+Analyzed coffee quality patterns with data visualization
+tools (Matplotlib, Seaborn).
+Conducted correlation analysis to identify key variables
+influencing quality.
+Used Cars Price Analysis
+Implemented web scraping with BeautifulSoup and
+Selenium to extract data from OLX.
+Organized data into structured Pandas dataframes and
+SQL databases for analysis.
+Evaluated price and odometer correlations and created
+actionable visualizations with Matplotlib.
+Interactive Dashboard Development
+Built dynamic dashboards using Excel, Tableau, and
+Power BI.
+Applied data aggregation, filtering, and interactive
+visualization techniques.
+Integrated real-time data updates to enhance decisionmaking processes.
+O B J E C T I V E
++91-7025673025
+Kerala
+sreeharivadakkethil@gmail.com
+T E C H N I C A L S K I L L S
+Python
+Statistical analysis
+Data visualization
+Machine learning
+SQL
+Tableau, PowerBi
+Numpy, Pandas, Matplotlib
+Feature engineering
+B.Sc. Zoology
+C O N T A C T
+L A N G U A G E S K N O W N
+English
+Malayalam
+Hindi
+P R O J E C T S
+Data Science & Analytics
+KGiSLMicrocollege
+L i n k e d I n
+C E R T I F I C A T I O N S
+H e a l t h I n s i g h t s H u b I s s u e d b y K G i S L M i c r o c o l l e g e
+I n t r o d u c t i o n t o D a t a A n a l y t i c I s s u e d b y I B M
+E x c e l B a s i c s f o r D a t a A n a l y s i s I s s u e d b y I B M
+D a t a V i s u a l i z a t i o n a n d D a s h b o a r d s w i t h E x c e l a n d
+C o g n o s I s s u e d b y I B M
+P y t h o n f o r D a t a S c i e n c e , A I & D e v e l o p m e n t I s s u e d
+b y I B M

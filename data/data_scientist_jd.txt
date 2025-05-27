@@ -1,0 +1,18 @@
+Job Title: Data Scientist
+
+Location: Hybrid / Chennai, India
+
+Type: Full Time with our client 
+
+Salary: Market 
+
+
+
+What you will do
+
+Build end-to-end machine learning models to solve business problems in Marketing
+Perform feature engineering and support data engineering to build robust data pipelines on large marketing datasets from different sources
+Collaborate with ML Engineering to build ML Pipelines to Train, Test, Deploy, Serve and Monitor models, Tune Hyperparameters, detect model and data drift and resolve issues
+Present machine learning models outcomes, and help interpret model predictions to various stakeholders using standard data visualization tools
+Contribute to designing Experiments to prove hypothesis, and conduct A/B testing
+Write unit test cases, validation checks, technical documentation, and user stories as per requirements

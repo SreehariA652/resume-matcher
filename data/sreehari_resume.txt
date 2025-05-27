@@ -1,0 +1,3 @@
+Name: Sreehari A
+Skills: Python, Machine Learning, Data Analysis
+Experience: ASpiring data scientist

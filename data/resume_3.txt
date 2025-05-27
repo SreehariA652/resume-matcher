@@ -1,0 +1,87 @@
+SREEHARI A
+ Palakkad, Kerala, India +91-7025673025
+ sreeharivadakkethil@gmail.com| linkedin.com/in/Sreehari-A-6363-URL | https://github.com/SreehariA652
+OBJECTIVE
+Meticulous Data scientist with a passion for helping 
+clients with any kind of problem they might have. 
+Proficient in data wrangling, statistical analysis, and 
+machine learning techniques to uncover insights and 
+create impactful solutions along with hands-on 
+experience through diverse real-world projects. 
+Ability to properly communicate with clients to find 
+what they actually want and to give useful outcomes. 
+TECHNICAL SKILLS
+• Programming: Python (Pandas, NumPy, 
+Matplotlib, Seaborn, TensorFlow, Keras)
+• Data Tools: SQL, Excel, Tableau, Power BI
+• Machine Learning: Supervised & Unsupervised 
+Learning, Feature Engineering, Deep Learning 
+(CNN), NLP
+• Others: Web Scraping (Selenium, BeautifulSoup), 
+Flask, Data visualization, Statistical analysis
+EXPERIENCE
+Capstone Project – E-commerce Customer 
+Behaviour Prediction (KGiSL Microcollege)
+Remote | Jan 2025 – Feb 2025
+• Extracted product data via web scraping 
+(BeautifulSoup, Selenium) and applied data 
+preprocessing (handling missing values, data 
+formatting, feature engineering).
+• Stored cleaned data in a relational database 
+(MySQL) and performed exploratory data 
+analysis (EDA) using Pandas, NumPy, and 
+Seaborn.
+• Trained both supervised and unsupervised 
+models, optimizing performance through 
+hyperparameter tuning.
+Freelance Data Analyst – Self-Employed
+Remote | Jul 2024 – Present
+• Built interactive dashboards using Power BI and 
+Tableau to analyze pizza sales performance and 
+track KPIs across categories. 
+• Conducted EDA on sales and customer datasets, 
+identifying insights into purchase patterns and 
+regional trends.
+• Crafted dynamic and interactive Excel 
+dashboards leveraging pivot tables, charts, slicers 
+and KPIs to visualize and analyze real-time data 
+updates.
+PROJECT HIGHLIGHTS
+Deep Learning Fashion Classifier
+• Developed a Convolutional Neural Network 
+(CNN) using TensorFlow/Keras to classify images 
+from the Fashion MNIST dataset. 
+• Created a Flask-based web application allowing 
+users to upload images and receive real-time 
+predictions from the trained model. 
+• Implemented image preprocessing (e.g., resizing, 
+normalization) to improve model inference 
+accuracy before making predictions.
+Used Cars Price Analysis
+• Implemented web scraping with BeautifulSoup 
+and Selenium to extract data from OLX.
+• Organized data into structured Pandas 
+dataframes and SQL databases for analysis.
+• Evaluated price and odometer correlations and 
+created actionable visualizations with Matplotlib.
+COURSES
+• Data Science & Analytics 
+• KGiSL Microcollege
+CERTIFICATIONS
+• IBM: Python for Data Science, AI & Development
+• IBM: Data Visualization and Dashboards with 
+Excel and Cognos
+• IBM: Introduction to Data Analytics
+• IBM: Excel Basics for Data Analysis
+• IBM: Generative AI – Prompt Engineering, 
+Introduction & Applications
+• KGiSL Microcollege: Health Insights Hub 
+EDUCATION
+Bachelor of Science in Zoology
+SNGSC Pattambi, University of Calicut
+2021 – 2024
+SOFT SKILLS
+Collaboration · Problem Solving · Critical Thinking · 
+Adaptability
+LANGUAGES
+English, Malayalam, Hindi, Tamil

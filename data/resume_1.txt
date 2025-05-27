@@ -1,0 +1,69 @@
+SREEHARI A
+ ASPIRING DATA ANALYST/DATA SCIENTIST
+ Email: sreeharivadakkethil@gmail.com 
+ Phone: +91 7025673025
+ LinkedIn: www.linkedin.com/in/Sreehari-A-6363-URL Scan for LinkedIn & GitHub
+ GitHub: https://github.com/SreehariA652
+ OBJECTIVE
+Meticulous Data scientist with a passion for helping clients with any kind of problem they might have. 
+Proficient in data wrangling, statistical analysis, and machine learning techniques to uncover insights and create 
+impactful solutions. Ability to properly communicate with clients to find what they actually want and to give 
+useful outcomes. Highly organized and detail-oriented. 
+TECHNICAL SKILLS
+• Python
+• Statistical analysis
+• Data visualization
+• Machine learning
+• SQL, Advance SQL
+• Tableau, PowerBi
+• NumPy, Pandas, Matplotlib
+• Feature engineering
+SOFT SKILLS
+• Collaboration
+• Problem-solving skills
+• Attention to details
+• Critical thinking
+• Adaptability
+• Decision-making
+CERTIFICATIONS
+• Generative AI: Introduction and Applications Issued by IBM
+• Introduction to Data Analytic Issued by IBM
+• Excel Basics for Data Analysis Issued by IBM
+• Data Visualization and Dashboards with Excel and Cognos Issued by IBM
+• Python for Data Science, AI & Development Issued by IBM
+• Generative AI: Prompt Engineering Basics by IBM
+PROJECTS
+Coffee Quality Analysis
+• Performed data cleaning using Python libraries (e.g., Pandas) to address missing values and 
+inconsistencies.
+• Analysed coffee quality patterns with data visualization tools (Matplotlib, Seaborn).
+• Conducted correlation analysis to identify key variables influencing quality.
+Used Cars Price Analysis
+• Implemented web scraping with BeautifulSoup and Selenium to extract data from OLX.
+• Organized data into structured Pandas data frames and SQL databases for analysis.
+• Evaluated price and odometer correlations and created actionable visualizations with Matplotlib.
+Interactive Dashboard Development
+• Built dynamic dashboards using Excel, Tableau, and Power BI.
+• Applied data aggregation, filtering, and interactive visualization techniques.
+• Integrated real-time data updates to enhance decision-making processes.
+E-commerce Customer Behaviour Prediction
+• Extracted product data via web scraping (BeautifulSoup, Selenium) and applied data preprocessing 
+(handling missing values, data formatting, feature engineering).
+• Stored cleaned data in a relational database (MySQL) and performed exploratory data analysis (EDA) 
+using Pandas, NumPy, and Seaborn.
+• Trained both supervised and unsupervised models, optimizing performance through hyperparameter 
+tuning
+Deep Learning-Based Fashion Item Classification
+• Developed a Convolutional Neural Network (CNN) using TensorFlow/Keras to classify images from the 
+Fashion MNIST dataset.
+• Created a Flask-based web application allowing users to upload images and receive real-time predictions 
+from the trained model.
+• Implemented image preprocessing (e.g., resizing, normalization) to improve model inference accuracy 
+before making predictions.
+COURSE
+Data Science & Analytics 
+KGiSL Microcollege
+EDUCATION
+B.Sc. Zoology
+SNGSC Pattambi
+2021-2024
